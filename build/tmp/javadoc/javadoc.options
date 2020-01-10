@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\jahopper\\Documents\\ud282-master\\Project 1 - TicTacToe\\build\\classes\\java\\main;C:\\Users\\jahopper\\Documents\\ud282-master\\Project 1 - TicTacToe\\build\\resources\\main'
+-d 'C:\\Users\\jahopper\\Documents\\ud282-master\\Project 1 - TicTacToe\\build\\docs\\javadoc'
+-doctitle 'Project 1 - TicTacToe API'
+-quiet 
+-windowtitle 'Project 1 - TicTacToe API'
+'C:\\Users\\jahopper\\Documents\\ud282-master\\Project 1 - TicTacToe\\src\\main\\java\\com\\udacity\\Game.java'
+'C:\\Users\\jahopper\\Documents\\ud282-master\\Project 1 - TicTacToe\\src\\main\\java\\com\\udacity\\GameUI.java'
