@@ -71,7 +71,7 @@ public class GameUI extends JPanel {
                 JPanel panel = (JPanel)e.getSource();
                 double boardWidth = panel.getWidth();
                 double boardHeight = panel.getHeight();
-                double boardX = 10; // the horizontal gap left of the grid
+                double boardX = 40; // the horizontal gap left of the grid
                 double boardY = 40; // the vertical gap above the grid
                 //return if clicked outside the grid area
                 if(e.getX()<boardX || e.getY() < boardY)
